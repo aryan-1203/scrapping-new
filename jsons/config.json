@@ -1,0 +1,9 @@
+{
+    "state": "madhya_pradesh",
+    "year": "2025",
+    "product": "L3P",
+    "trim": true,
+    "max_workers": 3,
+    "process_timeout": 300,
+    "output_folder": "output"
+} 
