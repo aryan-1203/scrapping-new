@@ -6,7 +6,7 @@ start_time = time.time()
 output_folder_path = 'output/'
 
 # STATES to scrape
-states = ["maharashtra", "madhya_pradesh", "rajasthan", "chhattisgarh"]
+states = ["rajasthan", "chhattisgarh"]
 
 # YEARS to scrape
 years = ["2023", "2024", "2025"]
